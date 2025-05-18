@@ -109,7 +109,7 @@ ID запроса: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
 3. Запустите выберите язык и скрипт сам все сделает
 4. Можно отключить авто обновления или оставить как есть
 ```
-irm https://raw.githubusercontent.com/Nikitosshow/cursor-help/refs/heads/main/cursor-help.ps1 | iex
+irm https://raw.githubusercontent.com/ElementoBorzi/cursor-help/refs/heads/main/cursor-help.ps1 | iex
 ```
 Вот и все! Скрипт:
 
